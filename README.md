@@ -3,16 +3,5 @@ Wox Random Password Plugin With Python3
 
 ## Usage: 
 ``` 
-pw length number
+time
 ```
-example:
-pw 8 2
---> 
-9dwgJ9Du
-vEudjJds
-
-pw 5 3
--->
-hsyu8
-mkdjs
-78udj
