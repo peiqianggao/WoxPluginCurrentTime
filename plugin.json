@@ -1,0 +1,12 @@
+{
+    "ID": "D2D3C24A684D411DB66FE1B89D6C3B1X",
+    "ActionKeyword": "time",
+    "Name": "CurrentTime",
+    "Description": "Get Current Time(China).",
+    "Author": "Gaopq",
+    "Version": "1.0",
+    "Language": "python",
+    "Website": "http://www.getwox.com",
+    "ExecuteFileName": "main.py",
+    "IcoPath": "time.png"
+}
