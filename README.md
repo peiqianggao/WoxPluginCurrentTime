@@ -1,7 +1,8 @@
 # Wox.Plugin.RandomPasswordPy3
-Wox Random Password Plugin With Python3
+Wox Get CurrentTime Plugin With Python3
 
 ## Usage: 
+just comnand in Wox
 ``` 
 time
 ```
