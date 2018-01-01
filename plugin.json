@@ -4,7 +4,7 @@
     "Name": "CurrentTime",
     "Description": "Get Current Time(China).",
     "Author": "Gaopq",
-    "Version": "1.0",
+    "Version": "0.1.0",
     "Language": "python",
     "Website": "http://www.getwox.com",
     "ExecuteFileName": "main.py",
